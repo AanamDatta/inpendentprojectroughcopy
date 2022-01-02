@@ -1,0 +1,50 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #ffd000, #ffd001, #ffd002, #ffd003, #ffd004);
+}
+
+.header
+{
+	color: white;font-family: 'serif';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 30px;
+}
+.login_div1
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 30px;
+}
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+.roomname
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.input_div label
+{
+	color: white;font-size: 20px;
+}
+
